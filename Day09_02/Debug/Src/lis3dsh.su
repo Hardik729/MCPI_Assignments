@@ -1,0 +1,7 @@
+../Inc/system_stm32f4xx.h:131:20:DelayMs	24	static
+../Src/lis3dsh.c:10:6:LIS_WriteIO	24	static
+../Src/lis3dsh.c:19:6:LIS_ReadIO	24	static
+../Src/lis3dsh.c:29:6:LIS_Init	16	static
+../Src/lis3dsh.c:38:10:LIS_GetData	32	static
+../Src/lis3dsh.c:55:5:LIS_DRdy	16	static
+../Src/lis3dsh.c:68:6:LIS_DRdy_Calib	32	static
